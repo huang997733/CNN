@@ -8,6 +8,8 @@ Use CNNs to classify a yoga pose dataset
 yoga32, based on a dataset created by Anastasia Marchenkova, includes 590 RGB colour images from 10 classes. Images have been downsampled to 32x32 pixels. A train/test split have been provided with 520 images for training/validation and 70 for testing.
 
 ![bridge7820](https://user-images.githubusercontent.com/88305416/208815550-f1ca909a-518f-4435-887f-bb8b7d78e0d0.jpg)
+![bridge73995](https://user-images.githubusercontent.com/88305416/208815768-eb27a170-764e-4987-8515-ccb4b2f61174.jpg)
+![trianglepose4580](https://user-images.githubusercontent.com/88305416/208815823-71f7be7b-02af-4d95-96bd-114d378e6625.jpg)
 
 
 ## Basic architecture
